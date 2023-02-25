@@ -44,7 +44,7 @@ const SavedBooks = () => {
 
   return (
     <>
-      <Jumbotron fluid className="text-dark">
+      <Jumbotron fluid className="text-light">
         <Container>
           <h1>Viewing {userData.username}'s books!</h1>
         </Container>
